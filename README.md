@@ -2,19 +2,17 @@
 
 ## 🔗 デプロイURL
 
-現在デプロイしていません。
+https://t-nakanishi-dev.com/works/laravel/figma/jobportal-laravel/public/
 
 ## 📸 スクリーンショット
 
-### 🏠 求人一覧
+### 🏠 Home
 
-![Job Portal Laravel - Jobs](public/images/jobs.png)
+![Job Portal Laravel - Home](public/images/figma_jobportal_home.webp)
 
-### 📄 求人詳細
+### 💼 Jobs
 
-![Job Portal Laravel - Job Details](public/images/job-details.png)
-
-※スクリーンショットのファイル名・保存場所に合わせて変更してください。
+![Job Portal Laravel - Jobs](public/images/figma_jobportal_laravel_jobs.webp)
 
 ## 📝 アプリ概要
 
