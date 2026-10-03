@@ -8,11 +8,11 @@
 
 ### 🏠 求人一覧
 
-![Job Portal Laravel - Jobs](images/jobs.png)
+![Job Portal Laravel - Jobs](public/images/jobs.png)
 
 ### 📄 求人詳細
 
-![Job Portal Laravel - Job Details](images/job-details.png)
+![Job Portal Laravel - Job Details](public/images/job-details.png)
 
 ※スクリーンショットのファイル名・保存場所に合わせて変更してください。
 
