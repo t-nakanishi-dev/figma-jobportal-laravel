@@ -18,6 +18,11 @@
                             <div class="form__select-wrapper">
                                 <select class="form__select" name="location">
                                     <option value="">Select Location</option>
+                                    @foreach ($locations as $location)
+                                        <option value="{{ $location }}">
+                                            {{ $location }}
+                                        </option>
+                                    @endforeach
                                 </select>
 
                                 <img class="form__select-icon" src="images/chevron-down.svg" alt=""
@@ -26,6 +31,11 @@
                             <div class="form__select-wrapper">
                                 <select class="form__select" name="category">
                                     <option value="">Select Category</option>
+                                    @foreach ($categories as $category => $count)
+                                        <option value="{{ $category }}">
+                                            {{ $category }}
+                                        </option>
+                                    @endforeach
                                 </select>
 
                                 <img class="form__select-icon" src="images/chevron-down.svg" alt=""
